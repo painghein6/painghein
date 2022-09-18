@@ -1,37 +1,9 @@
 {
    "files": [    
 
-
 {
-         "name": "DTAC-FREE-01",
-         "url": "https://raw.githubusercontent.com/ZK-VIP/-.json/main/DTAC-FREE-01.ovpn"
-     },
-
-
-{
-         "name": "DTAC-VIP-02",
-         "url": "https://raw.githubusercontent.com/ZK-VIP/-.json/main/DTAC-FREE-02.ovpn"
-     },
-
-{
-         "name": "DTAC-🇹🇭TH-VIP-1",
-         "url": "https://raw.githubusercontent.com/ZK-VIP/-.json/main/DTAC-TH-VIP-1.ovpn"
-     },
-
-{
-         "name": "TRUE-FREE-01",
-         "url": "https://raw.githubusercontent.com/ZK-VIP/-.json/main/TRUE-FREE-01.ovpn"
-      },
-
-{
-         "name": "TRUE-FREE-02",
-         "url": "https://raw.githubusercontent.com/ZK-VIP/-.json/main/TRUE-FREE-02.ovpn"
-      },
-
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-1",
-         "url": "https://raw.githubusercontent.com/ZK-VIP/-.json/main/TRUE-TH-VIP-01.ovpn"
+         "name": "SG-FREE-01",
+         "url": "https://raw.githubusercontent.com/painghein6/painghein/main/SG-FREE-01.ovpn"
       }
 
 
