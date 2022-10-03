@@ -2,49 +2,13 @@
    "files": [    
 
 {
-         "name": "DTAC-FREE-01",
-         "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/DTAC-FREE-1.ovpn"
-      },
-
-
-{
-         "name": "DTAC-FREE-02",
-         "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/DTAC-FREE-2.ovpn"
-     },
-
-
-{
-         "name": "DTAC-FREE-03",
-         "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/DTAC-FREE-3.ovpn"
-       },
-
-
-{
-         "name": "TRUE-FREE-01",
-         "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/TRUE-FREE-1.ovpn"
-        },
-
-
-{
-         "name": "TRUE-FREE-02",
-         "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/TRUE-FREE-2.ovpn"
-        },
-
-
-{
-         "name": "TRUE-FREE-03",
-         "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/TRUE-FREE-3.ovpn"
-        },
-
-
-{
          "name": "DTAC-🇹🇭TH-VIP-1",
          "url": "https://raw.githubusercontent.com/ZK-VIP/-.json/main/DTAC-TH-VIP-1.ovpn"
        },
 
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-2",
+         "name": "DTAC-🇹🇭TH-VIP-02",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-6.ovpn"
         },
 
@@ -56,7 +20,7 @@
 
 
 {
-         "name": "TRUE-🇹🇭TH-VIP-2",
+         "name": "TRUE-🇹🇭TH-VIP-02",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-6.ovpn"
       }
 
