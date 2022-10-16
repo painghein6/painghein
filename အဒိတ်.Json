@@ -6,10 +6,15 @@
          "url": "https://raw.githubusercontent.com/ZK-VIP/-.json/main/DTAC-TH-VIP-1.ovpn"
        },
 
-
 {
          "name": "DTAC-🇹🇭TH-VIP-2",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-6.ovpn"
+       },
+
+
+{
+         "name": "DTAC-🇹🇭GAME-VIP-3",
+         "url": "https://github.com/painghein6/painghein/blob/main/DTAC-GAME-VIP-3.ovpn"
         },
 
 
@@ -24,8 +29,12 @@
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-6.ovpn"
        },
 
+{
+         "name": "TRUE-🇹🇭GAME-VIP-3",
+         "url": "https://raw.githubusercontent.com/painghein6/painghein/main/TRUE-GAME-VIP-3.ovpn"
+       },
 
- {
+{
          "name": "SG🇸🇬-PHFREE-01",
          "url": "https://raw.githubusercontent.com/painghein6/painghein6/main/SG-PPH-FREE-01.ovpn"
        },
@@ -57,12 +66,12 @@
 
 
    ],
-"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n\n•Version:4\n•🇹🇭𝐓𝐇-𝐕𝐈𝐏 လိုင်းကောင်းကောင်းတစ်လမှ 50ဘတ်ပါနော်
-လိုင်းသုံးသမားOKတယ်
-ဂိမ်သမားတေ𝑂𝑘တယ်
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n\n•Version:5\n•🇹🇭𝐓𝐇-𝐕𝐈𝐏 လိုင်းကောင်းကောင်းတစ်လမှ 50ဘတ်ပါနော်
+လိုင်းသုံးသမား VIP 1
+ဂိမ်သမား VIP 2နဲ့3
 FREE 5ဖိုင်
 cb လာရောက်ဝယ်ယူအားပေးနိုင်ပါပြီး😊
 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞 ဆင်းကဒ်သက်တန်းရှိရုံနဲ့ အသုံးပြုလို့ရပါပြီး🥰\n\n•𝐀𝐝𝐝 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞 𝐍𝐨𝐅𝐫𝐞𝐞\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n\n•☣️𝐏.𝐏.𝐇☣️\n\n",
    "title":"📝ဖိုင်ဗားရှင်းအသစ်📝",
-   "version":5
+   "version":6
 }
